@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWeb", "NodejsWeb\NodejsWeb.njsproj", "{2A136C8E-0B4D-404F-A26B-A43FBA0F4E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A136C8E-0B4D-404F-A26B-A43FBA0F4E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A136C8E-0B4D-404F-A26B-A43FBA0F4E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A136C8E-0B4D-404F-A26B-A43FBA0F4E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A136C8E-0B4D-404F-A26B-A43FBA0F4E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF19BC29-CA32-4AA8-9616-6B014F011E6D}
+	EndGlobalSection
+EndGlobal
